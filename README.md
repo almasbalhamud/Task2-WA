@@ -34,7 +34,7 @@
 	•	حقل لكتابة العمر.
 
 	•	زر إرسال البيانات.
-<img width="1280" height="360" alt="image" src="https://github.com/user-attachments/assets/d6048d7b-2b0a-4a33-aa8b-60bad72522d1" />
+<img width="1280" height="299" alt="image" src="https://github.com/user-attachments/assets/c47d2ba1-f9ab-4d7a-a59f-feab15efa42c" />
 
 
 2. إدخال البيانات:
